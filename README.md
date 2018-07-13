@@ -39,11 +39,9 @@ Also knowledge in python could help.
 
 ### And coding style tests
 
-Explain what these tests test and why
+Respect Python coding conventions and
+Just DO NOT use CamelCase , please.
 
-```
-Give an example
-```
 
 ## Deployment
 
