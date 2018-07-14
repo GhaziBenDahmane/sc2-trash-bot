@@ -43,10 +43,6 @@ Respect Python coding conventions and
 Just DO NOT use CamelCase , please.
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Python-sc2](https://github.com/Dentosal/python-sc2) - A StarCraft II bot api client library for Python 3
