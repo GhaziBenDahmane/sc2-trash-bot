@@ -31,7 +31,7 @@ python3 run_locally.py
 
 ### Prerequisites
 
-You'll need atleast 400 apm in order to execute this bot as well as i do , you need to master the ins and outs of the game and you definitely need to atleast be able to defeat the formible medium bot atleast 25% of the time.
+You'll need atleast 400 apm in order to execute this bot as well as i do , you need to master the ins and outs of the game and you definitely need to atleast be able to defeat the formidable medium bot atleast 25% of the time.
 
 Also knowledge in python could help.
 
